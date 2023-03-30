@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">
 
 <!--
 **ayushsgithub/ayushsgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
