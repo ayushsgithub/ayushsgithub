@@ -4,12 +4,12 @@
 **ayushsgithub/ayushsgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
+<!--
 - 🔭 I’m currently working on developing my coding skills
 - 🌱 Currently learning Next.js and Typescript
 - 💬 Ask me about Web, Tech, PC Building
 - 📫 How to reach me: 👆
 - 😄 Pronouns: He/Him
+-->
 
 
-⭐️ From [Ayush](https://github.com/ayushsgithub)
