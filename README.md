@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on developing my coding skills
-- 🌱 Currently learning Next.js and Typescript
+- 🌱 Currently exploring and learning Backend
 - 💬 Ask me about Web, Tech, PC Building
 - 📫 How to reach me: 👆
 - 😄 Pronouns: He/Him
