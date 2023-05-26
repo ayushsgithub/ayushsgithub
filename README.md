@@ -21,7 +21,8 @@ Here are some ideas to get you started:-->
     <span class="icon">👇</span>
   </summary>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushsgithub&theme=react&langs_count=5&layout=compact" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsgithub&theme=react"/>
+
+![](https://github-readme-stats.vercel.app/api?username=ayushsgithub&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushsgithub&theme=react&hide_border=false)<br/>
 
 </details>
