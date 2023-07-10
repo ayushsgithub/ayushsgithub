@@ -4,7 +4,6 @@
 - 🌱 Exploring DevOps and also learning Backend Development
 - 💬 Ask me about Web, Tech, PC Building
 - 📫 How to reach me: 👆
-- 😄 Pronouns: He/Him
 - 👨‍💻 Open to work
 
 
