@@ -7,6 +7,9 @@
 - 👨‍💻 Open to work
 
 
+[![ayushsgithub's GitHub | Dependencies](https://stats.quine.sh/ayushsgithub/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushsgithub)
+
+
 
 <details>
   <summary>
