@@ -6,7 +6,7 @@
 - 📫 How to reach me: 👆
 - 👨‍💻 Open to work
 
-
+[![ayushsgithub's GitHub | Stats](https://stats.quine.sh/ayushsgithub/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushsgithub)
 [![ayushsgithub's GitHub | Dependencies](https://stats.quine.sh/ayushsgithub/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ayushsgithub)
 
 
