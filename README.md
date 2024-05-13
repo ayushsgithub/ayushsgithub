@@ -1,5 +1,5 @@
 ### Hi I'm Ayush
-- 🖥️ I've been coding in Java for over a year.
+- 🖥️ I've been coding in Java for over 2 years.
 - 🥼 Experience as a frontend developer in startups working remotely.
 - 📈️ Currenly geeking out on Data Structures and Algorithms 
 - 🖼️ Checkout my [Portfolio](https://ayushsport.netlify.app/)
