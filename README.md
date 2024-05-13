@@ -1,7 +1,7 @@
 ### Hi I'm Ayush
 - 🖥️ I've been coding in Java for over 2 years.
 - 🥼 Experience as a frontend developer in startups working remotely.
-- 📈️ Currenly geeking out on Data Structures and Algorithms 
+- 📈️ Currenly geeking out on [LeetCode](https://leetcode.com/u/ayushchaurasiya78/) 
 - 🖼️ Checkout my [Portfolio](https://ayushsport.netlify.app/)
 - 🌱 Exploring the exciting realms of Cloud Native & DevOps.
 - 💬 Ask me about Web, Tech, PC Building
