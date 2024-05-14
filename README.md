@@ -1,5 +1,5 @@
 ### Hi I'm Ayush
-- 📽️ Enjoying web development even since I built my first Javascript project, ["People Count"](https://github.com/ayushsgithub/pplcount).
+- 📽️ Enjoying web development even since I built my first React.js project, ["Tenzies"](https://github.com/ayushsgithub/Tenzies).
 - 🖥️ I've been coding in Java, Javascript for over 2 years.
 - 🥼 Experience as a frontend developer in startups working remotely.
 - 📈️ Currenly geeking out on [LeetCode](https://leetcode.com/u/ayushchaurasiya78/) 
