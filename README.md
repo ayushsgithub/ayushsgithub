@@ -1,7 +1,7 @@
 ### Hi I'm Ayush
 - 📽️ Enjoying web development even since I built my first React.js project, ["Tenzies"](https://github.com/ayushsgithub/Tenzies).
-- 🖥️ I've been coding in Java, Javascript for over 2 years.
-- 🥼 Experience as a frontend developer in startups working remotely.
+- 🖥️ I've been coding in Java, Javascript for around 2 years.
+- 🥼 Frontend developer with 1+ years of experience working in startups remotely.
 - 📈️ Currenly geeking out on [LeetCode](https://leetcode.com/u/ayushchaurasiya78/) 
 - 🖼️ Checkout my [Portfolio](https://ayushsport.netlify.app/)
 - 🌱 Exploring the exciting realms of Cloud Native & DevOps.
